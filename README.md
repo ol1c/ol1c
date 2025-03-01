@@ -2,10 +2,10 @@
 I'm Oliwier, a Computer Science student at the Gdańsk University of Technology
 ### 🚀 About Me
 
--🎓 Currently studying Computer Science
--📍 Based in Gdańsk, Poland
--📚 Passionate about expanding my knowledge and learning new technologies
--🎌 Currently learning Japanese as a personal challenge!
+- 🎓 Currently studying Computer Science
+- 📍 Based in Gdańsk, Poland
+- 📚 Passionate about expanding my knowledge and learning new technologies
+- 🎌 Currently learning Japanese as a personal challenge!
 ### 🌱 What I'm Learning
 
 I'm always looking for opportunities to improve my skills, whether it's programming, software development, or new technologies in the IT world.
