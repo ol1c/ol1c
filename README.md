@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm Oliwier, a Computer Science student at the Gdańsk University of Technology
 ### 🚀 About Me
+
 -🎓 Currently studying Computer Science
 -📍 Based in Gdańsk, Poland
 -📚 Passionate about expanding my knowledge and learning new technologies
